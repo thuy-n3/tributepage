@@ -38,21 +38,22 @@ p{
 a{
 	font-size:16px;
 	font-family: sansgit -serif;
+	
 }	
 
 #header{
-	background: #9B9B9B;
+	background:#e0e0de;
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
 
 .poster{
-	height: 700px;
-	width: 500px;
+	height: 500px;
+	width: 345px;
 }
 
 #title{
-	font-size: 60px;
+	font-size: 50px;
 	font-family: 'Allura', cursive;
 	color:#C31011;
 	margin-bottom: 0;
@@ -67,6 +68,7 @@ a{
 	margin: 0 auto; 
 	width: 800px;
 	margin-top: 15px;
+	line-height: 23px;
 }
 
 /* .chef-card{
@@ -87,9 +89,9 @@ a{
 }
 
 .chef-bio{
-	margin-top: 0;
 	padding-bottom: 30px;
 	margin: 0 auto; 
 	width: 800px;
-
+	line-height: 23px;
 }
+

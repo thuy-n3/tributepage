@@ -37,11 +37,11 @@ p{
 
 a{
 	font-size:16px;
-	font-family: sans-serif;
+	font-family: sansgit -serif;
 }	
 
 #header{
-	background: grey;
+	background: #9B9B9B;
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
@@ -49,6 +49,13 @@ a{
 .poster{
 	height: 700px;
 	width: 500px;
+}
+
+#title{
+	font-size: 60px;
+	font-family: 'Allura', cursive;
+	color:#C31011;
+	margin-bottom: 0;
 }
 
 #tribute-info{
@@ -59,6 +66,30 @@ a{
 #origin-text{
 	margin: 0 auto; 
 	width: 800px;
-	margin-top: 25px;
+	margin-top: 15px;
 }
 
+/* .chef-card{
+	border: solid 3px red;
+} */
+
+.chef-name{
+	font-family: 'Allura', cursive;
+	font-size: 40px;
+	color:#C31011;
+	margin: 0;
+}
+
+.chef-img{
+	height: 417px;
+	width: 419px;
+	margin-top:30px;
+}
+
+.chef-bio{
+	margin-top: 0;
+	padding-bottom: 30px;
+	margin: 0 auto; 
+	width: 800px;
+
+}

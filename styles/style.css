@@ -69,6 +69,14 @@ a{
 	width: 800px;
 	margin-top: 15px;
 	line-height: 23px;
+	padding-bottom: 20px;
+}
+
+#more-info{
+	border: grey solid 3px;
+	width: 500px;
+	margin: 0 auto;
+	padding-bottom: 12px;
 }
 
 /* .chef-card{

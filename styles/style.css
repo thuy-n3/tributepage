@@ -6,9 +6,13 @@
 body{
 	font-size: 0;
 	font-family: sans-serif;
+	
 }
 
 #main{
-	width:1040px;
 	margin: 0 auto;
+	width:1040px;
+	text-align: center
 }
+
+

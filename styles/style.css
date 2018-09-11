@@ -15,4 +15,50 @@ body{
 	text-align: center
 }
 
+h1{
+	font-size: 40px;
+	font-family: sans-serif;
+}
+
+h2{
+	font-size:30px;
+	font-family: sans-serif;
+}
+
+h3{
+	font-size:20px;
+	font-family: sans-serif;
+}
+
+p{
+	font-size:16px;
+	font-family: sans-serif;
+}
+
+a{
+	font-size:16px;
+	font-family: sans-serif;
+}	
+
+#header{
+	background: grey;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.poster{
+	height: 700px;
+	width: 500px;
+}
+
+#tribute-info{
+	margin-top: 100px;
+	margin-bottom: 80px;
+}
+
+#origin-text{
+	margin: 0 auto; 
+	width: 800px;
+	margin-top: 25px;
+}
 

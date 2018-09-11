@@ -1,7 +1,7 @@
-
+/* 
 *{
 	box-sizing: border-box; 
-}
+} */
 
 body{
 	font-size: 0;
@@ -54,7 +54,7 @@ a{
 
 #title{
 	font-size: 50px;
-	font-family: 'Allura', cursive;
+	font-family: 'Tangerine', cursive;
 	color:#C31011;
 	margin-bottom: 0;
 }
@@ -84,7 +84,7 @@ a{
 } */
 
 .chef-name{
-	font-family: 'Allura', cursive;
+	font-family: 'Tangerine', cursive;
 	font-size: 40px;
 	color:#C31011;
 	margin: 0;

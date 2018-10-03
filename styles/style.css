@@ -47,9 +47,13 @@ a{
 	padding-bottom: 20px;
 }
 
-.poster{
-	height: 500px;
-	width: 345px;
+#image{
+	max-width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	height: auto;
+  width: 100%;
 }
 
 #title{
@@ -91,8 +95,11 @@ a{
 }
 
 .chef-img{
-	height: 417px;
-	width: 419px;
+	max-width:100%;
+	display: block; 
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
 	margin-top:30px;
 }
 
@@ -103,3 +110,7 @@ a{
 	line-height: 23px;
 }
 
+
+@media(max-width: 860px){
+	max-width: 100%;
+}
